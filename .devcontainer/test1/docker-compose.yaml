@@ -1,0 +1,7 @@
+services:
+  app:
+    user: "1001"
+    build:
+      dockerfile: Dockerfile
+#    image: dev_image:latest
+    command: sleep infinity

@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "dockerComposeFile": "docker-compose.yaml",
+  "service": "app",
+  "containerUser": "app",
+  "workspaceFolder": "/home/app/code/",
+  "shutdownAction":  "none"
+}
