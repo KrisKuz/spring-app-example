@@ -1,0 +1,4 @@
+{
+  "name": "case_image",
+  "image": "openjdk:11"
+}
