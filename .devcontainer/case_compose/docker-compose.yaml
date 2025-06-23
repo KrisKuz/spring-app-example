@@ -1,5 +1,0 @@
-services:
-  mydockerfile:
-    build:
-      context: .
-      dockerfile: Dockerfile

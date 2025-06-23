@@ -1,4 +1,5 @@
+
 {
-  "name": "case_image",
-  "image": "openjdk:11"
+	"name": "smoke-test",
+	"image": "openjdk:11"
 }
